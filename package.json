@@ -1,5 +1,5 @@
 {
-  "name": "vue-masonry-css",
+  "name": "vue-masonry-css-extend",
   "version": "1.0.3",
   "description": "Vue Masonry component powered by CSS, dependancy free",
   "main": "dist/vue-masonry.common.js",

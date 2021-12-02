@@ -118,6 +118,8 @@ const component = {
       this._reCalculateColumnCount(this.windowWidth);
 
       this._reCalculateGutterSize(this.windowWidth);
+
+      this.$emit('calculated');
     },
 
     _reCalculateGutterSize(windowWidth) {
